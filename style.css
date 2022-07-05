@@ -36,5 +36,29 @@ h1 {
 }
 
 .about-section {
-    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-image: url(images/shapes/7.png);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#about-me {
+    margin-top: 270px;
+}
+
+.half-width-about {
+    width: 50%;
+    padding: 2%;
+    margin-left: 101px;
+}
+
+.half-width-about img {
+    width: 90%;
+    height: 700px;
+    margin-bottom: -33px;
+}
+
+.my-recipie {
+    font-size: 30px;
+    font
 }
